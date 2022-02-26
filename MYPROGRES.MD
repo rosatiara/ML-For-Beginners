@@ -1,4 +1,15 @@
-# Lessons
+# Progress Tracker
 
-01. [ ] [Introduction to machine learning](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/1-intro-to[-ML/README)
-02. [ ] [The History of Machine Learning](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/2-history-of-ML/README)
+[ ] [01. Introduction to machine learning](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/1-intro-to-ML/README)
+[ ] [02.The History of Machine Learning](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/2-history-of-ML/README)
+[ ] [03. Fairness and machine learning](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/3-fairness/README)
+[ ] [04. Techniques for machine learning](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/4-techniques-of-ML/README)
+[ ] [05. Introduction to regression - Get started with Python and scikit-learn for regression models](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README)
+[ ] [06. North American pumpkin prices - Visualize and clean data in preparation for ML](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README)
+[ ] [07. North american pumpkin prices - Build linear and polynomial regression models](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README)
+[ ] [08. North american pumpkin prices - Build a logistic regression model](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README)
+[ ] [09. A web app - Build a web app to use your trained model](https://microsoft.github.io/ML-For-Beginners/#/3-Web-App/README)
+[ ] [10. Intro to classification - Clean, prep, and visualize data](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README)
+[ ] [11. Delicious asian and indian cuisines  - intro to classifiers](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README)
+[ ] [12. Delicious asian and indian cuisines - more classifiers](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README)
+[ ] [12. Delicious asian and indian cuisines - more classifiers](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README)
